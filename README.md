@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center"> 🚀 Junior Developer | 💻 Systems Engineering Student at ITM</h3>
+<h3 align="center"> 🚀 Junior Developer | 💻 Systems Engineering Student/h3>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
